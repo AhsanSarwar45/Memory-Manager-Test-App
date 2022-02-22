@@ -1,0 +1,3 @@
+[submodule "Vendor/MemoryManager"]
+	path = Vendor/MemoryManager
+	url = https://github.com/AhsanSarwar45/MemoryManager
